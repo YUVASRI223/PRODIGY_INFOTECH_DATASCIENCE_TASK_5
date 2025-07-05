@@ -1,6 +1,3 @@
-Here's a much shorter README for Task 5
-
----
 
 ## PRODIGY_INFOTECH_DATASCIENCE: Task-05
 
